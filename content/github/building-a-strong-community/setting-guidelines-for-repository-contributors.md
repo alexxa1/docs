@@ -30,9 +30,9 @@ You can create default contribution guidelines for your organization{% if curren
 
 **Tip:** Repository maintainers can set specific guidelines for issues by creating an issue or pull request template for the repository. For more information, see "[About issue and pull request templates](/articles/about-issue-and-pull-request-templates)."
 
-{% endtip %}
+{%  %}
 
-### Adding a *CONTRIBUTING* file
+### Adding a ** file
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.files.add-file %}
